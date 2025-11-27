@@ -212,7 +212,7 @@ section {
 .lab-text {
     font-size: clamp(8rem, 15vw, 18rem);
     font-weight: 900;
-    color: #000000;
+    color: #ff0000;
     line-height: 0.9;
     letter-spacing: -0.02em;
 }
@@ -221,7 +221,7 @@ section {
     position: relative;
     font-size: clamp(8rem, 15vw, 18rem);
     font-weight: 900;
-    color: #000000;
+    color: #ff0000;
     line-height: 0.9;
     letter-spacing: -0.02em;
     transform: rotate(-2deg);
